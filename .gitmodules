@@ -1,3 +1,6 @@
 [submodule "read_binary_stl_file"]
 	path = read_binary_stl_file
 	url = https://github.com/jlhue/read_binary_stl_file
+[submodule "aabb-tree"]
+	path = aabb-tree
+	url = https://github.com/dengwirda/aabb-tree
