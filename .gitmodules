@@ -4,3 +4,6 @@
 [submodule "aabb-tree"]
 	path = aabb-tree
 	url = https://github.com/dengwirda/aabb-tree
+[submodule "min-distance-3d-triangles"]
+	path = min-distance-3d-triangles
+	url = https://github.com/mattia-lecci/min-distance-3d-triangles
