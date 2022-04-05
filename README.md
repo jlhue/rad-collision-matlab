@@ -30,8 +30,9 @@ How to use
 - Alternatively, modify the default path and STL names in the beginning of the function in the RadCollisionMatlab.m file
 
 
-[![screenshot](scene.png)](scene.png)
-[![screenshot](distance.png)](distance.png)
+[![screenshot](scene.jpg)](scene.jpg)
+
+[![screenshot](distance.jpg)](distance.jpg)
 
 
 3D model format
