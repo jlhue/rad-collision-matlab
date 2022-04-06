@@ -18,7 +18,7 @@ Requirements
 - MATLAB 2016a or higher
 - 3D model of your nozzle, couch and patient as STL files
 
-For first attempts, you can use the open-source STL files stored in this [PR](https://github.com/mghro/rad-collision/issues/21#issuecomment-1073840985) or in [https://github.com/SlicerRt/SlicerRT/tree/master/RoomsEyeView/TreatmentMachineModels](SlicerRT).
+For first attempts, you can use the open-source STL files stored in this [PR](https://github.com/mghro/rad-collision/issues/21#issuecomment-1073840985) (extract the zip file contents into a folder called models, and store it inside the same folder than the RadCollisionMatlab.m file) or in [https://github.com/SlicerRt/SlicerRT/tree/master/RoomsEyeView/TreatmentMachineModels](SlicerRT).
 
 How to use
 ----------
