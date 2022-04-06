@@ -22,6 +22,9 @@ elseif nargin ==5
 else
     error('Only either no arguments, or 5 arguments')
 end
+if 7~=exist(param.stlpath,'dir')
+    error('Specified STL path does not exist. Specify path via RadCollisionMatlab(stlpath,gantry,patient,couch,nobj)')
+end
 %% Main figure
 figure(...
     'NumberTitle','off',...
