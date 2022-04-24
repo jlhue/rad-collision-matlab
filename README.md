@@ -2,6 +2,8 @@
 
 This folder contains one flavor (or interface layer) of RadCollision. For other languages, consult https://github.com/mghro/rad-collision
 
+[![View rad-collision-matlab on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://es.mathworks.com/matlabcentral/fileexchange/110540-rad-collision-matlab)
+
 Licensing
 ---------
 
